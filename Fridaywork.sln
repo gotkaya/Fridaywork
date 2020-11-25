@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fridaywork", "Fridaywork\Fridaywork.csproj", "{954E20B2-AC97-44F6-B452-DF8FC97E412D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteFile", "DeleteFile\DeleteFile.csproj", "{475EB32F-66FB-4C3D-B3EC-535A5E076368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954E20B2-AC97-44F6-B452-DF8FC97E412D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954E20B2-AC97-44F6-B452-DF8FC97E412D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954E20B2-AC97-44F6-B452-DF8FC97E412D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954E20B2-AC97-44F6-B452-DF8FC97E412D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475EB32F-66FB-4C3D-B3EC-535A5E076368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475EB32F-66FB-4C3D-B3EC-535A5E076368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475EB32F-66FB-4C3D-B3EC-535A5E076368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475EB32F-66FB-4C3D-B3EC-535A5E076368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDC9283-9225-4AF2-BC71-937E088C1C72}
+	EndGlobalSection
+EndGlobal
